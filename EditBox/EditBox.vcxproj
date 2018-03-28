@@ -150,6 +150,7 @@
     <ClInclude Include="API.h" />
     <ClInclude Include="CLine.h" />
     <ClInclude Include="CText.h" />
+    <ClInclude Include="Cursor.h" />
     <ClInclude Include="EditBox.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
@@ -159,6 +160,7 @@
   <ItemGroup>
     <ClCompile Include="CLine.cpp" />
     <ClCompile Include="CText.cpp" />
+    <ClCompile Include="Cursor.cpp" />
     <ClCompile Include="EditBox.cpp" />
     <ClCompile Include="IO.cpp" />
     <ClCompile Include="stdafx.cpp">
